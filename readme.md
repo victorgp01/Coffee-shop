@@ -13,8 +13,8 @@ Installation Guide
 ------------------
 
 Follow these steps to get the project up and running on your local machine.
-
-### 1\. Clone the Repository
+        
+### 1\. Clone the Repository : https://github.com/victorgp01/Coffee-shop.git
 
 Clone the project repository from GitHub to your local machine.
 
